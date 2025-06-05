@@ -15,9 +15,9 @@ https://huggingface.co/unsloth/Meta-Llama-3.1-8B
 
 ## Dependency
 
-fastapi==0.109.2
-uvicorn==0.27.1
-jinja2==3.1.3
-python-multipart==0.0.9
-torch==2.2.0
-unsloth==0.3.0 
+- fastapi==0.109.2
+- uvicorn==0.27.1
+- jinja2==3.1.3
+- python-multipart==0.0.9
+- torch==2.2.0
+- unsloth==0.3.0 
